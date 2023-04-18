@@ -1,5 +1,5 @@
 package pkg
 
 func Ping() string {
-	return "pon"
+	return "pong"
 }
